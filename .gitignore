@@ -132,5 +132,7 @@ dmypy.json
 
 3-image-caption-generator/train-data/ru-12k-features-inception.pkl
 3-image-caption-generator/train-data/ru-12k-features-vgg16.pkl
+3-image-caption-generator/bleu-0512229-vgg16.h5
+3-image-caption-generator/bleu-0507810-inception.h5
 
 problem-solving/MNIST/
